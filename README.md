@@ -6,3 +6,6 @@ To build this text editor, we started with an existing application and implement
 
 ## Note
 Our TA walked us through this assignment together during class
+
+## Deployed app
+Here is the deployed heroku app - https://progressivewebapp-4938b71fa59b.herokuapp.com/
